@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Astaver
 - 👀 I’m interested in programming, 7 string guitar, and Dungeons and Dragons
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning python and javascript.
 - 💞️ I’m looking to collaborate on refreshing ideas.
 - 📫 How to reach me ...
 
