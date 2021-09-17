@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Astaver
+- 👋 Hi, I’m Aaron.
 - 👀 I’m interested in programming, 7 string guitar, and Dungeons and Dragons
-- 🌱 I’m currently learning python and javascript.
-- 💞️ I’m looking to collaborate on refreshing ideas.
-- 📫 How to reach me ...
+- 🌱 I’m currently learning python, HTML, CSS, & javascript.
+- 💞️ I’m looking to collaborate on just about anything.
 
 <!---
 Astaver/Astaver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
