@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aaron.
 - 👀 I’m interested in Web Development, 7 string guitar, and Dungeons and Dragons.
-- 🌱 I’m currently learning python, HTML, CSS, & javascript.
+- 🌱 I’m currently learning C++ and persuing my B.C.S.
 - 💞️ I’m looking to collaborate on just about anything.
 
 <!---
